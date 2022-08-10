@@ -14,6 +14,5 @@ public class testscript : MonoBehaviour
     void Update()
     {
         Debug.Log("Hello1");
-        Debug.Log("GEt out");
     }
 }
