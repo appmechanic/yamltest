@@ -15,5 +15,6 @@ public class testscript : MonoBehaviour
     {
         Debug.Log("Hello2fdfdf");
         Debug.Log("war");
+        Debug.Log("war");
     }
 }
